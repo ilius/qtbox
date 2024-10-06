@@ -4,10 +4,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/quick"
-	"github.com/therecipe/qt/quickcontrols2"
-	"github.com/therecipe/qt/widgets"
+	"github.com/ilius/qt/core"
+	"github.com/ilius/qt/quick"
+	"github.com/ilius/qt/quickcontrols2"
+	"github.com/ilius/qt/widgets"
 )
 
 func main() {
@@ -15,7 +15,7 @@ func main() {
 	app := widgets.NewQApplication(len(os.Args), os.Args)
 
 	//
-	//https://github.com/therecipe/examples/tree/master/basic/widgets
+	//https://github.com/ilius/examples/tree/master/basic/widgets
 	//
 
 	// create a window
@@ -52,7 +52,7 @@ func main() {
 	window.Show()
 
 	//
-	//https://github.com/therecipe/examples/tree/master/basic/quick
+	//https://github.com/ilius/examples/tree/master/basic/quick
 	//
 
 	// use the material style

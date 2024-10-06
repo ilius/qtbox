@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-REPO=therecipe/box
+REPO=ilius/box
 AUTH_HEADER="Authorization: token ${GITHUB_SECRET}"
 
 

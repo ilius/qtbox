@@ -2,7 +2,7 @@
 
 set -ev
 
-go get -v -d github.com/therecipe/qt/cmd/...
+go get -v -d github.com/ilius/qt/cmd/...
 
 OPWD=$PWD
 unset QT_FAT

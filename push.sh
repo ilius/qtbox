@@ -7,7 +7,7 @@ if [ ! -f "./full/deploy/darwin_amd64_513_full_http.zip" ]; then echo "darwin is
 if [ ! -f "./full/deploy/linux_amd64_513_full_http.zip" ]; then echo "linux is missing"; exit 1; fi
 
 
-REPO=therecipe/box
+REPO=ilius/box
 AUTH_HEADER="Authorization: token ${GITHUB_SECRET}"
 
 

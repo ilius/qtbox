@@ -3,14 +3,14 @@ package main
 import (
 	"os"
 
-	_ "github.com/therecipe/qt/interop"
+	_ "github.com/ilius/qt/interop"
 
-	"github.com/therecipe/qt/core"
-	_ "github.com/therecipe/qt/gui"
-	_ "github.com/therecipe/qt/multimedia"
-	_ "github.com/therecipe/qt/quick"
-	_ "github.com/therecipe/qt/quickcontrols2"
-	"github.com/therecipe/qt/widgets"
+	"github.com/ilius/qt/core"
+	_ "github.com/ilius/qt/gui"
+	_ "github.com/ilius/qt/multimedia"
+	_ "github.com/ilius/qt/quick"
+	_ "github.com/ilius/qt/quickcontrols2"
+	"github.com/ilius/qt/widgets"
 )
 
 func main() {

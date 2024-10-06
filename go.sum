@@ -1,0 +1,4 @@
+github.com/gopherjs/gopherjs v1.17.2 h1:fQnZVsXk8uxXIStYb0N4bGk7jeyTalG/wsZjQ25dO0g=
+github.com/gopherjs/gopherjs v1.17.2/go.mod h1:pRRIvn/QzFLrKfvEz3qUuEhtE/zLCWfreZ6J5gM2i+k=
+github.com/ilius/qt v0.0.0-20230422004322-c855bcf0151b h1:so6ndDlj5MkK/IWNMDhGLGyHjP+HJIMk7PkkAtbXZl8=
+github.com/ilius/qt v0.0.0-20230422004322-c855bcf0151b/go.mod h1:BkQcF3GtkapAqQ6Z6/Of2PZaAy1QEEApLBjw+PXUFM0=
